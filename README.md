@@ -1,7 +1,7 @@
 doxygen-qtify
 =============
 
-This is a quick hack for a Doxygen CSS Template which makes the Doxygen output 
+This is a quick hack for a Doxygen CSS stylesheet which makes the Doxygen output 
 look like a normal Qt5 documentation.
 
 > Note: This quick hack does not include all style sheet changes to make every
