@@ -375,6 +375,7 @@ table.memberdecls tr:nth-last-child(2) .memItemRight {
 }
 
 .memItemRight {
+  padding-right: 8px;
 }
 
 .memTemplParams {
